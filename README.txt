@@ -1,1 +1,1 @@
-Curso de Python básico do CodeCademy
+Web Programming with Python and JavaScript
