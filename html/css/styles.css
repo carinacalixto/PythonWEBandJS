@@ -1,0 +1,14 @@
+/*
+    Specificity on CSS:
+
+    1) inline
+    2) id
+    3) class
+    4) type
+    
+*/
+
+h1{
+    color: blue;
+    text-align: center;
+}
